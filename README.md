@@ -1,3 +1,5 @@
-# tinycolor-import
+# fuzzaldrin-plus-import
 
-HTML import for Tinycolor library
+HTML import for fuzzaldrin-plus
+
+https://github.com/jeancroy/fuzz-aldrin-plus
